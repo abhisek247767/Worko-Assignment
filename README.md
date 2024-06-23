@@ -35,7 +35,9 @@ Create a .env file in the root directory and add the following environment varia
 ```
 PORT=3000
 DB_URL=your-mongodb-connection-string
-JWT_SECRET=your-secret-key
+BASIC_AUTH_USERNAME=yourUsername
+BASIC_AUTH_PASSWORD=yourPassword
+
 ```
 3.**Start the server**
 
