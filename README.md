@@ -8,7 +8,7 @@ This project is a basic implementation of a Node.js API using the MVC architectu
 
 - MVC Architecture
 - MongoDB for data persistence
-- User authentication using JWT
+- User basic authentication 
 - CRUD operations for user management
 - Input validation using Joi
 - Environment configuration using dotenv
