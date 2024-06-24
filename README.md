@@ -22,7 +22,7 @@ This project is a basic implementation of a Node.js API using the MVC architectu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhisek247767/nodejs-mvc-api.git
+   git clone https://github.com/abhisek247767/Worko-Assignment.git
    cd nodejs-mvc-api
 2. **Install dependencies**
 
